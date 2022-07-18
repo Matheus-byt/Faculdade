@@ -1,0 +1,16 @@
+C:\Users\Pichau\Desktop\Programação Exercícios\Altura média entre 5 pessoas\Altura média entre 5 pessoas\bin\Debug\net5.0\Altura média entre 5 pessoas.exe
+C:\Users\Pichau\Desktop\Programação Exercícios\Altura média entre 5 pessoas\Altura média entre 5 pessoas\bin\Debug\net5.0\Altura média entre 5 pessoas.deps.json
+C:\Users\Pichau\Desktop\Programação Exercícios\Altura média entre 5 pessoas\Altura média entre 5 pessoas\bin\Debug\net5.0\Altura média entre 5 pessoas.runtimeconfig.json
+C:\Users\Pichau\Desktop\Programação Exercícios\Altura média entre 5 pessoas\Altura média entre 5 pessoas\bin\Debug\net5.0\Altura média entre 5 pessoas.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Programação Exercícios\Altura média entre 5 pessoas\Altura média entre 5 pessoas\bin\Debug\net5.0\Altura média entre 5 pessoas.dll
+C:\Users\Pichau\Desktop\Programação Exercícios\Altura média entre 5 pessoas\Altura média entre 5 pessoas\bin\Debug\net5.0\Altura média entre 5 pessoas.pdb
+C:\Users\Pichau\Desktop\Programação Exercícios\Altura média entre 5 pessoas\Altura média entre 5 pessoas\obj\Debug\net5.0\Altura média entre 5 pessoas.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Programação Exercícios\Altura média entre 5 pessoas\Altura média entre 5 pessoas\obj\Debug\net5.0\Altura média entre 5 pessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Programação Exercícios\Altura média entre 5 pessoas\Altura média entre 5 pessoas\obj\Debug\net5.0\Altura média entre 5 pessoas.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Programação Exercícios\Altura média entre 5 pessoas\Altura média entre 5 pessoas\obj\Debug\net5.0\Altura média entre 5 pessoas.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Programação Exercícios\Altura média entre 5 pessoas\Altura média entre 5 pessoas\obj\Debug\net5.0\Altura média entre 5 pessoas.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Programação Exercícios\Altura média entre 5 pessoas\Altura média entre 5 pessoas\obj\Debug\net5.0\Altura média entre 5 pessoas.dll
+C:\Users\Pichau\Desktop\Programação Exercícios\Altura média entre 5 pessoas\Altura média entre 5 pessoas\obj\Debug\net5.0\refint\Altura média entre 5 pessoas.dll
+C:\Users\Pichau\Desktop\Programação Exercícios\Altura média entre 5 pessoas\Altura média entre 5 pessoas\obj\Debug\net5.0\Altura média entre 5 pessoas.pdb
+C:\Users\Pichau\Desktop\Programação Exercícios\Altura média entre 5 pessoas\Altura média entre 5 pessoas\obj\Debug\net5.0\Altura média entre 5 pessoas.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Programação Exercícios\Altura média entre 5 pessoas\Altura média entre 5 pessoas\obj\Debug\net5.0\ref\Altura média entre 5 pessoas.dll
