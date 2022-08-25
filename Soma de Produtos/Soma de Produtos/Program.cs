@@ -21,7 +21,7 @@ namespace Soma_de_Produtos
               Console.Clear();
 
 
-              for (produto = cont; produto <= 15; produto++)
+              for (produto = cont; produto <= 5; produto++)
 
                {
                   Console.WriteLine($"\t\t\t\t\t##### BEM VINDO (A) {nome} ##### \n");

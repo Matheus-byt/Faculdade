@@ -14,3 +14,19 @@ C:\Users\Pichau\Desktop\Programação Exercícios\Soma de Produtos\Soma de Produ
 C:\Users\Pichau\Desktop\Programação Exercícios\Soma de Produtos\Soma de Produtos\obj\Debug\net5.0\Soma de Produtos.pdb
 C:\Users\Pichau\Desktop\Programação Exercícios\Soma de Produtos\Soma de Produtos\obj\Debug\net5.0\Soma de Produtos.genruntimeconfig.cache
 C:\Users\Pichau\Desktop\Programação Exercícios\Soma de Produtos\Soma de Produtos\obj\Debug\net5.0\ref\Soma de Produtos.dll
+C:\Users\Pichau\Desktop\Facul\Soma de Produtos\Soma de Produtos\bin\Debug\net5.0\Soma de Produtos.exe
+C:\Users\Pichau\Desktop\Facul\Soma de Produtos\Soma de Produtos\bin\Debug\net5.0\Soma de Produtos.deps.json
+C:\Users\Pichau\Desktop\Facul\Soma de Produtos\Soma de Produtos\bin\Debug\net5.0\Soma de Produtos.runtimeconfig.json
+C:\Users\Pichau\Desktop\Facul\Soma de Produtos\Soma de Produtos\bin\Debug\net5.0\Soma de Produtos.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Facul\Soma de Produtos\Soma de Produtos\bin\Debug\net5.0\Soma de Produtos.dll
+C:\Users\Pichau\Desktop\Facul\Soma de Produtos\Soma de Produtos\bin\Debug\net5.0\Soma de Produtos.pdb
+C:\Users\Pichau\Desktop\Facul\Soma de Produtos\Soma de Produtos\obj\Debug\net5.0\Soma de Produtos.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Facul\Soma de Produtos\Soma de Produtos\obj\Debug\net5.0\Soma de Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Facul\Soma de Produtos\Soma de Produtos\obj\Debug\net5.0\Soma de Produtos.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Facul\Soma de Produtos\Soma de Produtos\obj\Debug\net5.0\Soma de Produtos.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Facul\Soma de Produtos\Soma de Produtos\obj\Debug\net5.0\Soma de Produtos.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Facul\Soma de Produtos\Soma de Produtos\obj\Debug\net5.0\Soma de Produtos.dll
+C:\Users\Pichau\Desktop\Facul\Soma de Produtos\Soma de Produtos\obj\Debug\net5.0\refint\Soma de Produtos.dll
+C:\Users\Pichau\Desktop\Facul\Soma de Produtos\Soma de Produtos\obj\Debug\net5.0\Soma de Produtos.pdb
+C:\Users\Pichau\Desktop\Facul\Soma de Produtos\Soma de Produtos\obj\Debug\net5.0\Soma de Produtos.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Facul\Soma de Produtos\Soma de Produtos\obj\Debug\net5.0\ref\Soma de Produtos.dll

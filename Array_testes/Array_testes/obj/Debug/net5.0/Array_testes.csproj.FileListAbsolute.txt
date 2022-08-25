@@ -1,0 +1,16 @@
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_testes\Array_testes\bin\Debug\net5.0\Array_testes.exe
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_testes\Array_testes\bin\Debug\net5.0\Array_testes.deps.json
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_testes\Array_testes\bin\Debug\net5.0\Array_testes.runtimeconfig.json
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_testes\Array_testes\bin\Debug\net5.0\Array_testes.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_testes\Array_testes\bin\Debug\net5.0\Array_testes.dll
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_testes\Array_testes\bin\Debug\net5.0\Array_testes.pdb
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_testes\Array_testes\obj\Debug\net5.0\Array_testes.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_testes\Array_testes\obj\Debug\net5.0\Array_testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_testes\Array_testes\obj\Debug\net5.0\Array_testes.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_testes\Array_testes\obj\Debug\net5.0\Array_testes.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_testes\Array_testes\obj\Debug\net5.0\Array_testes.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_testes\Array_testes\obj\Debug\net5.0\Array_testes.dll
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_testes\Array_testes\obj\Debug\net5.0\refint\Array_testes.dll
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_testes\Array_testes\obj\Debug\net5.0\Array_testes.pdb
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_testes\Array_testes\obj\Debug\net5.0\Array_testes.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_testes\Array_testes\obj\Debug\net5.0\ref\Array_testes.dll

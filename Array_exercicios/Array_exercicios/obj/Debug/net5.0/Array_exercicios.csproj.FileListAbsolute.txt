@@ -1,0 +1,16 @@
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_exercicios\Array_exercicios\obj\Debug\net5.0\Array_exercicios.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_exercicios\Array_exercicios\obj\Debug\net5.0\Array_exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_exercicios\Array_exercicios\obj\Debug\net5.0\Array_exercicios.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_exercicios\Array_exercicios\obj\Debug\net5.0\Array_exercicios.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_exercicios\Array_exercicios\obj\Debug\net5.0\Array_exercicios.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_exercicios\Array_exercicios\bin\Debug\net5.0\Array_exercicios.exe
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_exercicios\Array_exercicios\bin\Debug\net5.0\Array_exercicios.deps.json
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_exercicios\Array_exercicios\bin\Debug\net5.0\Array_exercicios.runtimeconfig.json
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_exercicios\Array_exercicios\bin\Debug\net5.0\Array_exercicios.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_exercicios\Array_exercicios\bin\Debug\net5.0\Array_exercicios.dll
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_exercicios\Array_exercicios\bin\Debug\net5.0\Array_exercicios.pdb
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_exercicios\Array_exercicios\obj\Debug\net5.0\Array_exercicios.dll
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_exercicios\Array_exercicios\obj\Debug\net5.0\refint\Array_exercicios.dll
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_exercicios\Array_exercicios\obj\Debug\net5.0\Array_exercicios.pdb
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_exercicios\Array_exercicios\obj\Debug\net5.0\Array_exercicios.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Programação Exercícios\Array_exercicios\Array_exercicios\obj\Debug\net5.0\ref\Array_exercicios.dll

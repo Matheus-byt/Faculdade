@@ -1,0 +1,16 @@
+C:\Users\Pichau\Desktop\Programação Exercícios\While com Array\While com Array\bin\Debug\net5.0\While com Array.exe
+C:\Users\Pichau\Desktop\Programação Exercícios\While com Array\While com Array\bin\Debug\net5.0\While com Array.deps.json
+C:\Users\Pichau\Desktop\Programação Exercícios\While com Array\While com Array\bin\Debug\net5.0\While com Array.runtimeconfig.json
+C:\Users\Pichau\Desktop\Programação Exercícios\While com Array\While com Array\bin\Debug\net5.0\While com Array.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\Programação Exercícios\While com Array\While com Array\bin\Debug\net5.0\While com Array.dll
+C:\Users\Pichau\Desktop\Programação Exercícios\While com Array\While com Array\bin\Debug\net5.0\While com Array.pdb
+C:\Users\Pichau\Desktop\Programação Exercícios\While com Array\While com Array\obj\Debug\net5.0\While com Array.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Programação Exercícios\While com Array\While com Array\obj\Debug\net5.0\While com Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Programação Exercícios\While com Array\While com Array\obj\Debug\net5.0\While com Array.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Programação Exercícios\While com Array\While com Array\obj\Debug\net5.0\While com Array.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Programação Exercícios\While com Array\While com Array\obj\Debug\net5.0\While com Array.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Programação Exercícios\While com Array\While com Array\obj\Debug\net5.0\While com Array.dll
+C:\Users\Pichau\Desktop\Programação Exercícios\While com Array\While com Array\obj\Debug\net5.0\refint\While com Array.dll
+C:\Users\Pichau\Desktop\Programação Exercícios\While com Array\While com Array\obj\Debug\net5.0\While com Array.pdb
+C:\Users\Pichau\Desktop\Programação Exercícios\While com Array\While com Array\obj\Debug\net5.0\While com Array.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Programação Exercícios\While com Array\While com Array\obj\Debug\net5.0\ref\While com Array.dll
